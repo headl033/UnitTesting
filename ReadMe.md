@@ -1,7 +1,10 @@
 # Unit Testing
 
-The main point of this repository is [UnitTestingReadme.md](./UnitTestingBestPractices.md). Also contained in this repo is a very simple Java project containing the classes referenced.
+The main point of this repository is [UnitTestingReadme.md](./UnitTestingBestPractices.md). Also contained in this repo are very simple projects containing the referenced tests and implementations. Currently, there are examples for:
 
-Currently, only Java examples are present. If you'd like to contribute further examples, please feel free to send a pull request or reach out to me.
+* [Java](./java-unit-test-demo)
+* [Node.js](./node-unit-test-demo)
+
+While the current examples are limited, if you'd like to contribute further examples, please feel free to send a pull request or reach out to me.
 
 Also, any feedback on the document itself would be appreciated.
